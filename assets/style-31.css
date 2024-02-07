@@ -54,7 +54,7 @@ TABLE OF CONTENTS:
 }
 .type p span.typed-text {
   font-weight: normal;
-  color: #e70280;
+  color: #6e00ff;
 }
 .type p span.cursor {
   display: inline-block;
@@ -333,8 +333,8 @@ button.apihu-port-primary-btn {
   width: 170px;
   height: 63px;
   border-radius: 5px;
-  background-image: -webkit-gradient(linear, left top, right top, from(#590fb7), to(#ff0076));
-  background-image: linear-gradient(to right, #590fb7 0%, #ff0076 100%);
+  background-image: -webkit-gradient(linear, left top, right top, from(#00ff20), to(#6e00ff));
+  background-image: linear-gradient(to right, #00ff20 0%, #6e00ff 100%);
   -webkit-box-shadow: -4.096px -2.868px 8px 0px rgba(122, 247, 169, 0.25), 4.95px 4.95px 15px 0px rgba(100, 14, 179, 0.3);
           box-shadow: -4.096px -2.868px 8px 0px rgba(122, 247, 169, 0.25), 4.95px 4.95px 15px 0px rgba(100, 14, 179, 0.3);
   display: -webkit-inline-box;
@@ -377,8 +377,8 @@ button.apihu-port-primary-btn {
 
 a.apihu-port-primary-btn:before,
 button.apihu-port-primary-btn:before {
-  background: -webkit-gradient(linear, left bottom, right top, from(#ff0076), to(#590fb7));
-  background: linear-gradient(to top right, #ff0076, #590fb7);
+  background: -webkit-gradient(linear, left bottom, right top, from(#6e00ff), to(#00ff20));
+  background: linear-gradient(to top right, #6e00ff, #00ff20);
   -webkit-box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
           box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
   content: "";
@@ -411,7 +411,7 @@ button.apihu-port-primary-btn:hover {
   width: 50px;
   height: 50px;
   color: #ffffff !important;
-  background-color: #ff0076;
+  background-color: #6e00ff;
   font-size: 24px;
   text-align: center;
   line-height: 45px;
@@ -1054,7 +1054,7 @@ button.apihu-port-primary-btn:hover {
 }
 
 .apihu-port-hero-area .apihu-port-hero-title .apihu-port-hero-title-color {
-  color: #e70280;
+  color: #6e00ff;
   padding: 0px;
 }
 
@@ -1136,7 +1136,7 @@ button.apihu-port-primary-btn:hover {
   width: 0;
   height: 100%;
   border-radius: 5px;
-  background: linear-gradient(-141deg, #590fb7, #ff0076);
+  background: linear-gradient(-141deg, #00ff20, #6e00ff);
   -webkit-box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
           box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
   z-index: -1;
@@ -1227,7 +1227,7 @@ button.apihu-port-primary-btn:hover {
 }
 
 .apihu-port-hero-area .apihu-port-hero-social ul li a:hover {
-  background: linear-gradient(7deg, #590fb7, #ff0076);
+  background: linear-gradient(7deg, #00ff20, #6e00ff);
   border: 1px solid transparent;
   color: #ffffff;
 }
@@ -1277,8 +1277,8 @@ button.apihu-port-primary-btn:hover {
 
 .apldg2-footer-section .apldg2-footer-copyright {
   padding: 8px 0;
-  background-image: -webkit-gradient(linear, left top, right top, from(#590fb7), to(#ff0076));
-  background-image: linear-gradient(to right, #590fb7 0%, #ff0076 100%);
+  background-image: -webkit-gradient(linear, left top, right top, from(#00ff20), to(#6e00ff));
+  background-image: linear-gradient(to right, #00ff20 0%, #6e00ff 100%);
   text-align: center;
   margin-top: 100px;
 }
@@ -1466,7 +1466,7 @@ button.apihu-port-primary-btn:hover {
   font-weight: 700;
   line-height: 1;
   font-family: "Roboto", sans-serif;
-  color: #e70280;
+  color: #07bbed;
   margin-bottom: 13px;
 }
 
@@ -1485,7 +1485,7 @@ button.apihu-port-primary-btn:hover {
 }
 
 .apihu-port-section-heading .apihu-port-section-title .apihu-port-section-title-color {
-  color: #e30281;
+  color: #6e00ff;
 }
 
 .apihu-port-section-heading .apihu-port-section-text {
@@ -1538,7 +1538,7 @@ button.apihu-port-primary-btn:hover {
 
 .apihu-port-about-area .apihu-port-about-right .apihu-port-about-subtitle {
   font-size: 24px;
-  color: #e70280;
+  color: #6e00ff;
   font-weight: 700;
   font-family: "Roboto", sans-serif;
   line-height: 1;
@@ -1567,7 +1567,7 @@ button.apihu-port-primary-btn:hover {
 }
 
 .apihu-port-about-area .apihu-port-about-right .apihu-port-about-title span {
-  color: #e70280;
+  color: #6e00ff;
 }
 
 .apihu-port-about-area .apihu-port-about-right .apihu-port-about-text {
@@ -1618,8 +1618,8 @@ button.apihu-port-primary-btn:hover {
 }
 
 .apihu-port-about-area .apihu-port-about-right .apihu-port-about-expertise .nav-link.active {
-  background-image: -webkit-gradient(linear, left top, right top, from(#590fb7), to(#ff0076));
-  background-image: linear-gradient(to right, #590fb7 0%, #ff0076 100%);
+  background-image: -webkit-gradient(linear, left top, right top, from(#00ff20), to(#6e00ff));
+  background-image: linear-gradient(to right, #00ff20 0%, #6e00ff 100%);
   color: #ffffff;
 }
 
@@ -1695,9 +1695,9 @@ button.apihu-port-primary-btn:hover {
   text-align: center;
   border-width: 2px;
   border-style: solid;
-  -o-border-image: linear-gradient(to right, #590fb7, #ff0076) 1;
-     border-image: -webkit-gradient(linear, left top, right top, from(#590fb7), to(#ff0076)) 1;
-     border-image: linear-gradient(to right, #590fb7, #ff0076) 1;
+  -o-border-image: linear-gradient(to right, #00ff20, #6e00ff) 1;
+     border-image: -webkit-gradient(linear, left top, right top, from(#00ff20), to(#6e00ff)) 1;
+     border-image: linear-gradient(to right, #00ff20, #6e00ff) 1;
   position: relative;
   z-index: 0;
 }
@@ -1713,12 +1713,12 @@ button.apihu-port-primary-btn:hover {
   left: 0;
   width: 0;
   height: 100%;
-  background: linear-gradient(-141deg, #590fb7, #ff0076);
+  background: linear-gradient(-141deg, #00ff20, #6e00ff);
   -webkit-box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
           box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
-  -o-border-image: linear-gradient(to right, #590fb7, #ff0076) 1;
-     border-image: -webkit-gradient(linear, left top, right top, from(#590fb7), to(#ff0076)) 1;
-     border-image: linear-gradient(to right, #590fb7, #ff0076) 1;
+  -o-border-image: linear-gradient(to right, #00ff20, #6e00ff) 1;
+     border-image: -webkit-gradient(linear, left top, right top, from(#00ff20), to(#6e00ff)) 1;
+     border-image: linear-gradient(to right, #00ff20, #6e00ff) 1;
   z-index: -1;
   -webkit-transition: all 0.3s ease-in;
   transition: all 0.3s ease-in;
@@ -1783,8 +1783,8 @@ button.apihu-port-primary-btn:hover {
   border-radius: 50%;
   width: 200%;
   height: 150%;
-  background: -webkit-gradient(linear, left bottom, right top, from(#ff0076), to(#590fb7));
-  background: linear-gradient(to top right, #ff0076, #590fb7);
+  background: -webkit-gradient(linear, left bottom, right top, from(#6e00ff), to(#00ff20));
+  background: linear-gradient(to top right, #6e00ff, #00ff20);
   -webkit-transition: all 1.3s ease-in-out;
   transition: all 1.3s ease-in-out;
   -webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
@@ -1864,7 +1864,7 @@ button.apihu-port-primary-btn:hover {
   width: 0;
   height: 100%;
   border-radius: 5px;
-  background: linear-gradient(-141deg, #590fb7, #ff0076);
+  background: linear-gradient(-141deg, #00ff20, #6e00ff);
   -webkit-box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
           box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
   z-index: -1;
@@ -1938,7 +1938,7 @@ button.apihu-port-primary-btn:hover {
   width: 0;
   height: 100%;
   border-radius: 5px;
-  background: linear-gradient(-141deg, #590fb7, #ff0076);
+  background: linear-gradient(-141deg, #00ff20, #6e00ff);
   -webkit-box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
           box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
   z-index: -1;
@@ -2016,7 +2016,7 @@ button.apihu-port-primary-btn:hover {
   font-family: "Poppins", sans-serif;
   line-height: 1.5;
   color: #ffffff;
-  background: linear-gradient(-141deg, #590fb7, #ff0076);
+  background: linear-gradient(-141deg, #00ff20, #6e00ff);
   width: 150px;
   height: 50px;
   display: -webkit-inline-box;
@@ -2040,8 +2040,8 @@ button.apihu-port-primary-btn:hover {
 }
 
 .apihu-port-cta-area .apihu-port-cta-content-wrap .apihu-port-cta-content-text a:before {
-  background: -webkit-gradient(linear, left bottom, right top, from(#ff0076), to(#590fb7));
-  background: linear-gradient(to top right, #ff0076, #590fb7);
+  background: -webkit-gradient(linear, left bottom, right top, from(#6e00ff), to(#00ff20));
+  background: linear-gradient(to top right, #6e00ff, #00ff20);
   -webkit-box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
           box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
   content: "";
@@ -2211,7 +2211,7 @@ button.apihu-port-primary-btn:hover {
   width: 0;
   height: 100%;
   border-radius: 5px;
-  background: linear-gradient(-141deg, #590fb7, #ff0076);
+  background: linear-gradient(-141deg, #00ff20, #6e00ff);
   -webkit-box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
           box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
   z-index: -1;
@@ -2375,7 +2375,7 @@ button.apihu-port-primary-btn:hover {
   width: 0;
   height: 100%;
   border-radius: 5px;
-  background: linear-gradient(-141deg, #590fb7, #ff0076);
+  background: linear-gradient(-141deg, #00ff20, #6e00ff);
   -webkit-box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
           box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
   z-index: -1;
@@ -2392,8 +2392,8 @@ button.apihu-port-primary-btn:hover {
 }
 
 .apihu-port-pricing-area .apihu-port-single-pricing.active {
-  background: -webkit-gradient(linear, left bottom, right top, from(#ff0076), to(#590fb7));
-  background: linear-gradient(to top right, #ff0076, #590fb7);
+  background: -webkit-gradient(linear, left bottom, right top, from(#6e00ff), to(#00ff20));
+  background: linear-gradient(to top right, #6e00ff, #00ff20);
 }
 
 .apihu-port-pricing-area .apihu-port-single-pricing.active h2 {
@@ -2409,8 +2409,8 @@ button.apihu-port-primary-btn:hover {
 }
 
 .apihu-port-pricing-area .apihu-port-single-pricing.active a {
-  background: -webkit-gradient(linear, left top, right top, from(#590fb7), to(#ff0076));
-  background: linear-gradient(to right, #590fb7, #ff0076);
+  background: -webkit-gradient(linear, left top, right top, from(#00ff20), to(#6e00ff));
+  background: linear-gradient(to right, #00ff20, #6e00ff);
   color: #ffffff;
   -webkit-box-shadow: -4px -3px 8px 0px rgba(255, 129, 201, 0.25), 5px 5px 15px 0px rgba(89, 15, 183, 0.42);
           box-shadow: -4px -3px 8px 0px rgba(255, 129, 201, 0.25), 5px 5px 15px 0px rgba(89, 15, 183, 0.42);
@@ -2544,7 +2544,7 @@ button.apihu-port-primary-btn:hover {
 
 .apihu-port-testimonial-area .apihu-port-testimonial-slider .owl-nav .owl-prev:hover,
 .apihu-port-testimonial-area .apihu-port-testimonial-slider .owl-nav .owl-next:hover {
-  background: linear-gradient(-141deg, #590fb7, #ff0076);
+  background: linear-gradient(-141deg, #00ff20, #6e00ff);
   color: #ffffff;
 }
 
@@ -2592,7 +2592,7 @@ button.apihu-port-primary-btn:hover {
   border-radius: 50%;
   -webkit-transform: translate(-150%, -50%);
           transform: translate(-150%, -50%);
-  background: linear-gradient(-141deg, #590fb7, #ff0076);
+  background: linear-gradient(-141deg, #00ff20, #6e00ff);
   -webkit-box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
           box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
   -webkit-transition: all .8s ease-in-out;
@@ -2700,8 +2700,8 @@ button.apihu-port-primary-btn:hover {
 }
 
 .apihu-port-contact-area .apihu-port-contact-left form button[type=submit]:before {
-  background: -webkit-gradient(linear, left bottom, right top, from(#ff0076), to(#590fb7));
-  background: linear-gradient(to top right, #ff0076, #590fb7);
+  background: -webkit-gradient(linear, left bottom, right top, from(#6e00ff), to(#00ff20));
+  background: linear-gradient(to top right, #6e00ff, #00ff20);
   -webkit-box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
           box-shadow: -4px -3px 8px 0px rgba(122, 247, 169, 0.25), 5px 5px 15px 0px rgba(100, 14, 179, 0.3);
   content: "";
@@ -2876,7 +2876,7 @@ button.apihu-port-primary-btn:hover {
 }
 
 .apihu-port-blog-area .apihu-port-single-blog .apihu-port-blog-meta-single a:hover {
-  color: #590fb7;
+  color: #00ff20;
 }
 
 .apihu-port-blog-area .apihu-port-single-blog a h3 {
@@ -2890,7 +2890,7 @@ button.apihu-port-primary-btn:hover {
 }
 
 .apihu-port-blog-area .apihu-port-single-blog a:hover h3 {
-  color: #590fb7;
+  color: #00ff20;
 }
 
 .apihu-port-blog-area .owl-nav {
@@ -2916,7 +2916,7 @@ button.apihu-port-primary-btn:hover {
 }
 
 .apihu-port-blog-area .owl-dots .owl-dot.active {
-  background: linear-gradient(-141deg, #590fb7, #ff0076);
+  background: linear-gradient(-141deg, #00ff20, #6e00ff);
 }
 
 
